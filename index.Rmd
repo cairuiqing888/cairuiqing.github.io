@@ -1,0 +1,40 @@
+---
+title: "Ruiqing Cai"
+image: "sigridur.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/ruiqing-cai"
+  - label: GitHub
+    url: "https://https://github.com/cairuiqing888/"
+  - label: Email
+    url: "mailto:rcai9@jh.edu"
+output:
+  postcards::solana
+---
+## Bio
+
+<p style="font-family: garamond, serif; font-size:12pt">
+I am first-year Master of Health Science student in Epidemiology at Johns Hopkins Bloomberg School of Public Health (BSPH), set to achieve a Master's in Infectious Diseases Epidemiology by 2025. With a multidisciplinary professional background in both Public Health and Chemistry at Virginia Polytechnic Institute and State University during my undergraduate study, I delved deep into research in infectious disease dynamics (Epidemiology), vaccine development (Biochemistry), and battery cell advancements (Chemistry). My pivotal projects encompassed disease modeling in Virginia via R programming and substantial contributions to rotavirus vaccine research. As I advance in my academic journey at Johns Hopkins, my ambition is to bolster my statistical acumen and conduct more in-depth research on infectious disease transmission and dynamic analysis. My ultimate aim is to play an instrumental role in preventing and controlling emerging infectious diseases in the future.
+</p >
+## Education
+
+**Virginia Polytechnic Institute and State University (Virginia Tech)** | Blacksburg, Virginia, US
+
+B.A. in Chemistry and Public Health | August 2019 - May 2023
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD, US
+
+MHS in Infectious Disease Epidemiology | August 2023 - Current
+
+## Experience
+
+**Infectious Diseases Transmission Model for Virginia** | *Researcher* | August 2022 - August 2023
+
+**Vaccine Development for Rotavirus** | *Research Assistant* | February 2022 - December 2022
+
+**Battery Cell Cathode and Electrolyte Development** | *Research Assistant* | December 2021 - December 2022
+
+**Wuhan Topgene Biotechnology Co., LTD.** | *Research Intern* | November 2020 - March 2021
+
+**American Red Cross** | *Volunteer* | January 2022 - January 2023
+
