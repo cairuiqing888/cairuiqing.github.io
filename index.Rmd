@@ -1,5 +1,5 @@
 ---
-title: "Ruiqing Cai"
+<span style="font-family: garamond, sans-serif; font-weight: bold; font-size: 28pt">title: "Ruiqing Cai"</span>
 image: "sigridur.jpg"
 links:
   - label: LinkedIn
@@ -11,30 +11,37 @@ links:
 output:
   postcards::solana
 ---
-## Bio
+## <span style="font-family: garamond, sans-serif; font-weight: bold; font-size: 28pt">Bio</span>
 
 <p style="font-family: garamond, serif; font-size:12pt">
 I am first-year Master of Health Science student in Epidemiology at Johns Hopkins Bloomberg School of Public Health (BSPH), set to achieve a Master's in Infectious Diseases Epidemiology by 2025. With a multidisciplinary professional background in both Public Health and Chemistry at Virginia Polytechnic Institute and State University during my undergraduate study, I delved deep into research in infectious disease dynamics (Epidemiology), vaccine development (Biochemistry), and battery cell advancements (Chemistry). My pivotal projects encompassed disease modeling in Virginia via R programming and substantial contributions to rotavirus vaccine research. As I advance in my academic journey at Johns Hopkins, my ambition is to bolster my statistical acumen and conduct more in-depth research on infectious disease transmission and dynamic analysis. My ultimate aim is to play an instrumental role in preventing and controlling emerging infectious diseases in the future.
 </p >
-## Education
-
+## <span style="font-family: garamond, sans-serif; font-weight: bold; font-size: 28pt">Education</span>
+<p style="font-family: garamond, serif; font-size:12pt">
 **Virginia Polytechnic Institute and State University (Virginia Tech)** | Blacksburg, Virginia, US
-
+</p >
+<p style="font-family: garamond, serif; font-size:12pt">
 B.A. in Chemistry and Public Health | August 2019 - May 2023
-
+</p >
+<p style="font-family: garamond, serif; font-size:12pt">
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD, US
-
+</p >
+<p style="font-family: garamond, serif; font-size:12pt">
 MHS in Infectious Disease Epidemiology | August 2023 - Current
-
-## Experience
-
+</p >
+## <span style="font-family: garamond, sans-serif; font-weight: bold; font-size: 28pt">Experience</span>
+<p style="font-family: garamond, serif; font-size:12pt">
 **Infectious Diseases Transmission Model for Virginia** | *Researcher* | August 2022 - August 2023
-
+</p >
+<p style="font-family: garamond, serif; font-size:12pt">
 **Vaccine Development for Rotavirus** | *Research Assistant* | February 2022 - December 2022
-
+</p >
+<p style="font-family: garamond, serif; font-size:12pt">
 **Battery Cell Cathode and Electrolyte Development** | *Research Assistant* | December 2021 - December 2022
-
+</p >
+<p style="font-family: garamond, serif; font-size:12pt">
 **Wuhan Topgene Biotechnology Co., LTD.** | *Research Intern* | November 2020 - March 2021
-
+</p >
+<p style="font-family: garamond, serif; font-size:12pt">
 **American Red Cross** | *Volunteer* | January 2022 - January 2023
-
+</p >
