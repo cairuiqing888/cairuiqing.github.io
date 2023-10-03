@@ -1,5 +1,5 @@
 ---
-<span style="font-family: garamond, sans-serif; font-weight: bold; font-size: 28pt">title: "Ruiqing Cai"</span>
+title: "Ruiqing Cai"
 image: "sigridur.jpg"
 links:
   - label: LinkedIn
