@@ -1,6 +1,6 @@
 ---
 title: "Ruiqing Cai"
-image: "Ruiqing_Cai.jpg"
+image: "Ruiqing_Cai.jpeg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/ruiqing-cai"
